@@ -2,9 +2,10 @@
 
 <div align="center">
   <img src=".\resources\images\icon.png" width="200">
-  <br>
-  
 </div>
+
+`YiMengQing-Plugin`为`Yunzai-Bot`的扩展插件
+> 仅支持V3版本的Yunzai
 
 ## ✨ 功能特色
 
@@ -27,11 +28,3 @@
 - **VIP系统**：特殊用户专属回复
 - **黄历集成**：自动获取当日宜忌
 - **屏蔽词管理**：`定声 [关键词]`
-
-## 🤝 参与贡献(暂无)
-
-1. Fork 本仓库
-2. 创建新分支 (`git checkout -b feature/xxx`)
-3. 提交修改 (`git commit -am 'Add xxx'`)
-4. 推送分支 (`git push origin feature/xxx`)
-5. 新建 Pull Request
