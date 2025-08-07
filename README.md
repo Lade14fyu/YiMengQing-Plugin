@@ -4,7 +4,7 @@
   <img src=".\resources\images\icon.png" width="200">
 </div>
 
-`YiMengQing-Plugin`为`Yunzai-Bot`的扩展插件
+`YiMengQing-Plugin`为[`Yunzai-Bot`](https://yunzai-bot.com/)的扩展插件
 > 仅支持V3版本的Yunzai
 
 ## ✨ 功能特色
