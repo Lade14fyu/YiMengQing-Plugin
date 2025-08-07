@@ -1,0 +1,32 @@
+# 核心依赖
+nonebot2>=2.0.0
+nonebot-adapter-onebot>=2.0.0
+pydantic>=1.10.0
+httpx>=0.23.0
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# 数据处理
+ujson>=5.4.0
+pycryptodome>=3.15.0
+
+# 网络请求
+aiohttp>=3.8.4
+aiofiles>=23.1.0
+
+# 实用工具
+python-dotenv>=0.21.1
+loguru>=0.6.0
+arrow>=1.2.3
+
+# 开发依赖 (可选)
+pytest>=7.2.0
+pytest-asyncio>=0.20.3
+pytest-cov>=4.0.0
+mypy>=1.0.0
+black>=23.1.0
+flake8>=6.0.0
+
+# 文档生成 (可选)
+mkdocs>=1.4.2
+mkdocs-material>=9.0.2
